@@ -1,0 +1,2 @@
+This portfolio is configured to discourage search-engine indexing using noindex meta tags and robots.txt.
+It is still publicly accessible to anyone who has the direct URL.
